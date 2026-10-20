@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Studi Kasus 3: Career and Competition in Industrial Era with GIS
 
 ## Deskripsi
@@ -13,3 +14,7 @@ Grafik tersimpan di folder `outputs/`.
 
 ## Catatan
 Data pada proyek ini sintetis atau bawaan library agar bisa dijalankan tanpa dataset eksternal. Kesimpulan substantif perlu divalidasi dengan data nyata.
+=======
+# case3-gis-industrial-site
+Studi Kasus 3
+>>>>>>> cb31a7453ee62785cc22825decd72680c40fd281
