@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Studi Kasus 3: Career and Competition in Industrial Era with GIS
 
 ## Deskripsi
